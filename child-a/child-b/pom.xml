@@ -8,4 +8,10 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>child-b</artifactId>
     <name>child-b</name>
+	<distributionManagement>
+		<site>
+			<id>${distributionManagement.site.id}</id>
+			<url>${distributionManagement.site.url}${project.artifactId}/</url>
+		</site>
+	</distributionManagement>
 </project>
