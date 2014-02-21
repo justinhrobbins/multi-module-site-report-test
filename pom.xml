@@ -13,7 +13,6 @@
         <!-- Plugin versions -->
         <maven.site.plugin.version>3.3</maven.site.plugin.version>
         <maven.source.plugin.version>2.2.1</maven.source.plugin.version>
-        <site.maven.plugin.version>0.9</site.maven.plugin.version>
 
         <!-- Reports versions -->
         <maven.javadoc.plugin.verions>2.9.1</maven.javadoc.plugin.verions>
